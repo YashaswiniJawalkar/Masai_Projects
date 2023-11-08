@@ -56,4 +56,4 @@ The Terminal-Based Maze Solver is a Python application designed to generate rand
 - Python 3.x
 - Colorama library
 
- 
+
